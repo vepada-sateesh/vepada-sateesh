@@ -55,10 +55,12 @@
   </br>
   
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=vepada-sateesh&theme=indian-flag&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vepada-sateesh&theme=indian-flag&hide_border=false)<br/>
-<p align="center">
+
+<p>
   <img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vepada-sateesh&layout=compact&langs_count=8&hide=&theme=indian-flag"  /></p>
 
 ## 🏆 GitHub Trophies
