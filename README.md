@@ -6,7 +6,7 @@
 
  
  <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/> I'm Sateesh Vepada</h1>
-<h3 align="center">A Passionate Full-Stack Web Developer from India</h3>
+<h3 align="center">“I think everybody in this country should learn how to program a computer because it teaches you how to think.”- Steve Jobs</h3>
 <img align="right" alt="Coding" width="400" src="animation.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danish4git&label=Profile%20views&color=0e75b6&style=flat" alt="danish4git" /> </p>
